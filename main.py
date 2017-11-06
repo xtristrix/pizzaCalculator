@@ -1,7 +1,7 @@
-// Copyright (c) 2017, Tristan Eberhart
-// Use of this source code is governed by the
-// GNU General Public License Version 2
-// which can be found in the LICENSE file.
+# Copyright (c) 2017, Tristan Eberhart
+# Use of this source code is governed by the
+# GNU General Public License Version 2
+# which can be found in the LICENSE file.
 
 import calculation
 import questions
